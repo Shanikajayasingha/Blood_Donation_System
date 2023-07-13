@@ -1,0 +1,56 @@
+.col{
+    padding-top: 20px;
+}
+.type{
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.w{
+    width: 50px;
+}
+
+.dis{
+    height: 100px;
+}
+
+.submit{
+    margin-top: 80px;
+    margin-left: 300px;
+}
+
+.button{
+   margin-top: 10px;
+}
+
+.display1,.display2{
+    display: inline;
+    
+}
+
+.c1{
+    padding-top: 100px;
+}
+.bb{
+    width: 80%;
+    
+}
+
+.row{
+    margin: 10px;
+    
+    
+}
+
+.name{
+    width: 100%;
+}
+
+
+
+
+.c{
+    padding-top: 20px;
+}

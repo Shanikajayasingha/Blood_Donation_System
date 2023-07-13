@@ -1,0 +1,47 @@
+.main{
+    margin: 1%;
+    
+}
+
+.g1{
+    border-color: 1px solid black;
+}
+.link{
+    padding-right: 20px;
+}
+
+.links{
+    text-align:right;
+}
+
+.news{
+    padding-top: 50px;
+}
+
+
+.c2{
+    padding-top: 30px;
+}
+
+.doner_form{
+    padding-top: 10px;
+    
+}
+.form-group{
+    padding-top:30px;
+}
+
+
+.type{
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 40px;
+    padding-left: 10px;
+
+}
+
+
+.a:hover {
+   color: yellow;
+  }
+
